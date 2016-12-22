@@ -1,0 +1,18 @@
+[
+    {
+        "file": "actuator",
+        "members": ["name", "id", "section", "index"]
+    },
+    {
+        "file": "ammo",
+        "members": ["name", "id", "tech base", "artemis capable", "apollo capable", "health", "criticals", "tonnage", "ammo type", "shots", "damage", "cost"]
+    },
+    {
+        "file": "armor",
+        "members": ["name", "id", "tech base", "criticals", "points per ton", "armor per point", "cost multiplier", "upgrade multiplier"]
+    },
+    {
+        "file": "chassis",
+        "members": ["chassis", "tech base", "mech type", "tonnage", "movement archetype", "description"]
+    }
+]
