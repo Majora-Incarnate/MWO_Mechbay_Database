@@ -1,0 +1,68 @@
+chassis;tech base;mech type;tonnage;movement archetype;description
+Adder;Clan;Omnimech;35.0;Tiny;This is a test description.
+Archer;Inner Sphere;Battlemech;70.0;Large;This is a test description.
+Arctic Cheetah;Clan;Omnimech;30.0;Tiny;This is a test description.
+Atlas;Inner Sphere;Battlemech;100.0;Huge;This is a test description.
+Awesome;Inner Sphere;Battlemech;80.0;Large;This is a test description.
+Banshee;Inner Sphere;Battlemech;95.0;Huge;This is a test description.
+Battlemaster;Inner Sphere;Battlemech;85.0;Huge;This is a test description.
+Blackjack;Inner Sphere;Battlemech;45.0;Small;This is a test description.
+Black Knight;Inner Sphere;Battlemech;75.0;Large;This is a test description.
+Cataphract;Inner Sphere;Battlemech;70.0;Large;This is a test description.
+Catapult;Inner Sphere;Battlemech;65.0;Medium;This is a test description.
+Centurion;Inner Sphere;Battlemech;50.0;Small;This is a test description.
+Cicada;Inner Sphere;Battlemech;40.0;Small;This is a test description.
+Crab;Inner Sphere;Battlemech;50.0;Small;This is a test description.
+Commando;Inner Sphere;Battlemech;25.0;Tiny;This is a test description.
+Dire Wolf;Clan;Omnimech;100.0;Huge;This is a test description.
+Dragon;Inner Sphere;Battlemech;60.0;Medium;This is a test description.
+Ebon Jaguar;Clan;Omnimech;65.0;Medium;This is a test description.
+Enforcer;Inner Sphere;Battlemech;50.0;Small;This is a test description.
+Executioner;Clan;Omnimech;95.0;Huge;This is a test description.
+Firestarter;Inner Sphere;Battlemech;35.0;Tiny;This is a test description.
+Flea;Inner Sphere;Battlemech;20.0;Tiny;This is a test description.
+Gargoyle;Clan;Omnimech;80.0;Large;This is a test description.
+Grasshopper;Inner Sphere;Battlemech;70.0;Large;This is a test description.
+Griffin;Inner Sphere;Battlemech;55.0;Medium;This is a test description.
+Hellbringer;Clan;Omnimech;65.0;Medium;This is a test description.
+Highlander;Inner Sphere;Battlemech;90.0;Huge;This is a test description.
+Highlander IIC;Inner Sphere;Battlemech;90.0;Huge;This is a test description.
+Hunchback;Inner Sphere;Battlemech;50.0;Small;This is a test description.
+Hunchback IIC;Clan;Battlemech;50.0;Small;This is a test description.
+Ice Ferret;Clan;Omnimech;45.0;Small;This is a test description.
+Jagermech;Inner Sphere;Battlemech;65.0;Medium;This is a test description.
+Jenner;Inner Sphere;Battlemech;35.0;Tiny;This is a test description.
+Jenner IIC;Clan;Battlemech;35.0;Tiny;This is a test description.
+King Crab;Inner Sphere;Battlemech;100.0;Huge;This is a test description.
+Kintaro;Inner Sphere;Battlemech;55.0;Medium;This is a test description.
+Kit Fox;Clan;Omnimech;30.0;Tiny;This is a test description.
+Locust;Inner Sphere;Battlemech;20.0;Tiny;This is a test description.
+Mad Dog;Clan;Omnimech;60.0;Medium;This is a test description.
+Marauder;Inner Sphere;Battlemech;75.0;Large;This is a test description.
+Mauler;Inner Sphere;Battlemech;90.0;Huge;This is a test description.
+Mist Lynx;Clan;Omnimech;25.0;Tiny;This is a test description.
+Nova;Clan;Omnimech;50.0;Small;This is a test description.
+Orion;Inner Sphere;Battlemech;75.0;Large;This is a test description.
+Orion IIC;Clan;Battlemech;75.0;Large;This is a test description.
+Panther;Inner Sphere;Battlemech;35.0;Tiny;This is a test description.
+Quickdraw;Inner Sphere;Battlemech;60.0;Medium;This is a test description.
+Raven;Inner Sphere;Battlemech;35.0;Tiny;This is a test description.
+Rifleman;Inner Sphere;Battlemech;60.0;Medium;This is a test description.
+Shadow Cat;Clan;Omnimech;45.0;Small;This is a test description.
+Shadow Hawk;Inner Sphere;Battlemech;55.0;Medium;This is a test description.
+Spider;Inner Sphere;Battlemech;30.0;Tiny;This is a test description.
+Stalker;Inner Sphere;Battlemech;85.0;Huge;This is a test description.
+Stormcrow;Clan;Omnimech;55.0;Medium;This is a test description.
+Summoner;Clan;Omnimech;70.0;Large;This is a test description.
+Thunderbolt;Inner Sphere;Battlemech;65.0;Medium;This is a test description.
+Timber Wolf;Clan;Omnimech;75.0;Large;This is a test description.
+Trebuchet;Inner Sphere;Battlemech;50.0;Small;This is a test description.
+Urbanmech;Inner Sphere;Battlemech;30.0;Tiny;This is a test description.
+Victor;Inner Sphere;Battlemech;80.0;Large;This is a test description.
+Vindicator;Inner Sphere;Battlemech;45.0;Small;This is a test description.
+Viper;Clan;Omnimech;40.0;Small;This is a test description.
+Warhammer;Inner Sphere;Battlemech;70.0;Large;This is a test description.
+Warhawk;Clan;Omnimech;85.0;Huge;This is a test description.
+Wolfhound;Inner Sphere;Battlemech;35.0;Tiny;This is a test description.
+Wolverine;Inner Sphere;Battlemech;55.0;Medium;This is a test description.
+Zeus;Inner Sphere;Battlemech;80.0;Large;This is a test description.

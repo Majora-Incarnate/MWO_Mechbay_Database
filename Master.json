@@ -1,0 +1,41 @@
+{
+	"Chassis": [{
+		"Chassis": "Viper",
+		"Tech Base": "Clan",
+		"Mech Type": "Omnimech",
+		"Tonnage": "40",
+		"Movement Archetype": "Small",
+		"Description": "This is a test description",
+	}, {
+		"Chassis": "Assassin",
+		"Tech Base": "Inner Sphere",
+		"Mech Type": "Battlemech",
+		"Tonnage": "40",
+		"Movement Archetype": "Small",
+		"Description": "This is a test description",
+	}],
+	"Model": [{
+		"Chassis": "Viper",
+		"ID": "0",
+		"Model": "VPR-M"
+	}, {
+		"Chassis": "Assassin",
+		"ID": "0",
+		"Model": "ASN-DD"
+	}],
+	"Section": [],
+	"Weapon": [],
+	"Ammo": [],
+	"Equipment": [],
+	"Actuator": [],
+	"Armor": [],
+	"CASE": [],
+	"Cockpit": [],
+	"Engine": [],
+	"Gyro": [],
+	"Structure": [],
+	"Jump Jet": [],
+	"Heat Sink": [],
+	"Myomer": [],
+	"Fire Control": []
+}
