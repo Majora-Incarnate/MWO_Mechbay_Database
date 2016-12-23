@@ -1,4 +1,4 @@
-Name;ID;Tech Base;Artemis Capable;Apollo Capable;Health;Criticals;Tonnage;Ammo Type;Shots;Damage;Cost
+name;id;tech base;artemis capable;apollo capable;health;criticals;tonnage;ammo type;shots;damage;cost
 AMS Ammo;2001;Inner Sphere;False;False;10;1;1;AMS Ammo;1000;0.024;0
 AC2 Ammo;2005;Inner Sphere;False;False;10;1;1;AC2 Ammo;75;2;0
 AC5 Ammo;2006;Inner Sphere;False;False;10;1;1;AC5 Ammo;30;5;0

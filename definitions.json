@@ -12,7 +12,63 @@
         "members": ["name", "id", "tech base", "criticals", "points per ton", "armor per point", "cost multiplier", "upgrade multiplier"]
     },
     {
+        "file": "case",
+        "members": ["name","id","tech base","item type","tonnage","criticals"]
+    },
+    {
         "file": "chassis",
         "members": ["chassis", "tech base", "mech type", "tonnage", "movement archetype", "description"]
+    },
+    {
+        "file": "cockpit",
+        "members": ["name","id","tech base","tonnage","criticals","cost multiplier","upgrade multiplier"]
+    },
+    {
+        "file": "engine",
+        "members": ["name","id","tech base","ct criticals","st criticals","tonnage modifier","cost multiplier","heat sink multiplier"]
+    },
+    {
+        "file": "equipment",
+        "members": ["name","id","tech base","hardpoint type","tonnage","criticals"]
+    },
+    {
+        "file": "firecontrol",
+        "members": ["name","id","tech base","critical mod","tonnage mod","spread mod","item cost mod","upgrade cost"]
+    },
+    {
+        "file": "gyro",
+        "members": ["name","id","tech base","criticals","tonnage modifier","cost multiplier","upgrade multiplier"]
+    },
+    {
+        "file": "heatsink",
+        "members": ["name","id","tech base","weight","criticals","engine dissipation","outside dissipation","threshold bonus","space modifier","item cost","upgrade cost"]
+    },
+    {
+        "file": "jumpjet",
+        "members": ["name","id","tech base","tonnage mod","criticals","horizontal mod","vertical mod","cost multiplier","upgrade cost"]
+    },
+    {
+        "file": "misc",
+        "members": ["key","value"]
+    },
+    {
+        "file": "model",
+        "members": ["chassis","id","model","unconfirmed?","unreleased?","champion?","hero?","c-bill cost","accel","decel","turn rate","torso yaw","torso pitch","arm yaw","arm pitch","max engine","min engine","mech slots","weapon slots","consumable slots","ra","la","rt","lt","ct","hd","rl","ll","engine type","engine rating","armor type","structure type","heat sink type","heat sink count","gyro type","cockpit type","jump jet type","myomer type"]
+    },
+    {
+        "file": "myomer",
+        "members": ["name","id","tech base","critical mod","tonnage mod","criticals","tonnage","upgrade cost"]
+    },
+    {
+        "file": "section",
+        "members": ["chassis","model","section","criticals","ballistic hp","energy hp","missile hp","ams hp","ecm hp","min actuator","max actuator","actuator type","min jj mod","max jj mod","hardwired hs","hardwired armor","hardwired structure","quirks"]
+    },
+    {
+        "file": "structure",
+        "members": ["name","id","tech base","criticals","tonnage modifier","health modifier","cost multiplier","upgrade multiplier"]
+    },
+    {
+        "file": "weapon",
+        "members": ["name","id","tech base","health","criticals","hardpoint type","actuator compatible","artemis capable","apollo capable","can lock","salvo size","burst size","damage","thermal damage","penalty group","heat penalty","penalty threshold","impulse","heat","cooldown","ammo type","ammo per shot","rate of fire","spread","minimum range","effective range","maximum range","tonnage","duration","velocity","burst delay","crit modifier","crit increase","extra shots","jamming chance","jammed time","tag duration","emp duration","chargeup time","explosion chance","explosion damage"]
     }
 ]

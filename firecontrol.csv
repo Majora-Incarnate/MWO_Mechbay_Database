@@ -1,0 +1,4 @@
+name;id;tech base;critical mod;tonnage mod;spread mod;item cost mod;upgrade cost
+Standard;0;ALL;0;0;1;1.00;125000
+Artemis IV;0;ALL;1;1;0.666666;2.00;250000
+Apollo IV;-1;IS;1;1;0.666666;2.00;250000

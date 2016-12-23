@@ -1,0 +1,12 @@
+name;id;tech base;hardpoint type;tonnage;criticals
+Beagle Active Probe;9002;IS;None;1.5;2
+Guardiam ECM;9003;IS;ECM;1.5;2
+Active Probe;9020;CLAN;None;1.0;1
+ECM Suite;9021;CLAN;ECM;1.0;1
+Targeting Computer Mk I (CL);9013;CLAN;None;1.0;1
+Targeting Computer Mk II (CL);9014;CLAN;None;2.0;2
+Targeting Computer Mk III (CL);9015;CLAN;None;3.0;3
+Targeting Computer Mk IV (CL);9016;CLAN;None;4.0;4
+Targeting Computer Mk V (CL);9017;CLAN;None;5.0;5
+Targeting Computer Mk VI (CL);9018;CLAN;None;6.0;6
+Targeting Computer Mk VII (CL);9019;CLAN;None;7.0;7
