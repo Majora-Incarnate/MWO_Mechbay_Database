@@ -53,7 +53,7 @@
     },
     {
         "file": "model",
-        "members": ["chassis","id","model","unconfirmed?","unreleased?","champion?","hero?","c-bill cost","accel","decel","turn rate","torso yaw","torso pitch","arm yaw","arm pitch","max engine","min engine","mech slots","weapon slots","consumable slots","ra","la","rt","lt","ct","hd","rl","ll","engine type","engine rating","armor type","structure type","heat sink type","heat sink count","gyro type","cockpit type","jump jet type","myomer type"]
+        "members": ["chassis","id","model","unconfirmed?","unreleased?","champion?","hero?","c-bill cost","accel","decel","turn rate","torso yaw","torso pitch","arm yaw","arm pitch","max engine","min engine","mech slots","weapon slots","consumable slots","sections","engine type","engine rating","armor type","structure type","heat sink type","heat sink count","gyro type","cockpit type","jump jet type","myomer type"]
     },
     {
         "file": "myomer",
@@ -61,7 +61,7 @@
     },
     {
         "file": "section",
-        "members": ["chassis","model","section","criticals","ballistic hp","energy hp","missile hp","ams hp","ecm hp","min actuator","max actuator","actuator type","min jj mod","max jj mod","hardwired hs","hardwired armor","hardwired structure","quirks"]
+        "members": ["chassis","model","section","criticals","hardpoints","min actuator","max actuator","actuator type","min jj mod","max jj mod","hardwired hs","hardwired armor","hardwired structure","quirks"]
     },
     {
         "file": "structure",
